@@ -25,4 +25,4 @@ This repository contains the backend server for a full-stack Todo application, b
 
 **Frontend Repository:**
 
-* The frontend for this application is located in: `<your-frontend-repo-url>`
+* The frontend for this application is located in: `https://github.com/AbhiramGarg/TodoappClient`
